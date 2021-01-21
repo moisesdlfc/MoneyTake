@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{651C11CA-B286-614E-3611-C65B1FA88522}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Manager/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Manager/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Coin/Coin.cs" Line="85" Column="31" />
+      <File FileName="Assets/Manager/Timer.cs" />
+      <File FileName="Assets/Scripts/VariableScript.cs" />
+      <File FileName="Assets/Scripts/Person.cs" />
+      <File FileName="Assets/Scripts/Family.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirst3DGame" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Coin" expanded="True" />
+              <Node name="Manager" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Environment" expanded="True">
+                  <Node name="Water" expanded="True">
+                    <Node name="Water" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cae5b829-e713-4707-a44b-1694d3dfa79b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
